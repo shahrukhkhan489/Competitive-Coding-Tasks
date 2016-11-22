@@ -13,3 +13,5 @@ Explicitly state the assumptions you are making, if any.
 ## Answer
 
 Architecture displayed in diagram
+
+![Architecture](Architecture.png)
