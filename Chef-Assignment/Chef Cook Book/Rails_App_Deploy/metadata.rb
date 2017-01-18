@@ -1,0 +1,7 @@
+name 'Rails_App_Deploy'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures Rails_App_Deploy'
+long_description 'Installs/Configures Rails_App_Deploy'
+version '0.1.0'
